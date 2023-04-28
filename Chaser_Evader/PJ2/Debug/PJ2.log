@@ -1,0 +1,11 @@
+﻿  character.cpp
+E:\C++\project\PJ2\PJ2\fltk.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'FL/Fl.H': No such file or directory
+  Graph.cpp
+E:\C++\project\PJ2\PJ2\fltk.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'FL/Fl.H': No such file or directory
+  GUI.cpp
+E:\C++\project\PJ2\PJ2\fltk.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'FL/Fl.H': No such file or directory
+  main_characters.cpp
+E:\C++\project\PJ2\PJ2\fltk.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'FL/Fl.H': No such file or directory
+  Window.cpp
+E:\C++\project\PJ2\PJ2\fltk.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'FL/Fl.H': No such file or directory
+  코드를 생성하고 있습니다...
